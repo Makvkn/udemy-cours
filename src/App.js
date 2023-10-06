@@ -19,7 +19,7 @@ import './App.css';
 
 import Expenses from './components/Expenses/Expenses';
 import NewExpense from "./components/Expenses/NewExpenses/NewExpense";
-
+console.log('lllll')
 const App = () => {
 
     const expense = [
